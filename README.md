@@ -31,3 +31,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=psycho-2025&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
+
+###### You need to live alone to be able to get succeed in your life!
+
+

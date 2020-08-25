@@ -1,21 +1,21 @@
 ### Hi there! I'm Gaurav! 👋
 <a href="https://www.linkedin.com/">
-    <img align="left" alt="viral's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="left" alt="gaurav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://twitter.com/">
-    <img align="left" alt="Viral vaghela| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img align="left" alt="Gaurav Yadav| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
-  <a href="https://www.instagram.com/psyco_2025/">
-    <img align="left" alt="viral's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <a href="https://www.instagram.com/psycho_2025/">
+    <img align="left" alt="gaurav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
-   <a href="https://gauravy.tk">
-    <img align="left" alt="viral's blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />
+   <a href="https://psycho-2025.github.io/psycho.github.io/">
+    <img align="left" alt="gaurav's blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />
   </a>
    <a href="mailto:ygauravyy@gmail.com">
-    <img align="left" alt="viral's mail address" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img align="left" alt="gaurav's mail address" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
    <a href="https://stackoverflow.com/users/14157085/">
-    <img align="left" alt="viral's stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+    <img align="left" alt="gaurav's stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
   </a>
   
   

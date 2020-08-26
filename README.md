@@ -1,5 +1,5 @@
 ### Hi there! I'm [Gaurav!](https://psycho-2025.github.io/psycho.github.io/)👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=psycho-2025&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=psycho-2025&label=Views&color=blue&style=plastic" alt="psycho-2025" /> </p>
 <a href="https://www.linkedin.com/">
     <img align="left" alt="gaurav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
@@ -29,7 +29,13 @@
 - 😄 Real name is Gaurav not Psycho ...
 - 😄 Pronouns: He/His 🚫She/Her
 
+
 <img src="https://github-readme-stats.vercel.app/api?username=psycho-2025&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+<a href="https://github.com/psycho-2025">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psycho-2025&theme=light&hide_langs_below=1" />
+</a>
+
 
 
 

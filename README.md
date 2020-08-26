@@ -1,4 +1,4 @@
-### Hi there! I'm Gaurav!(https://github.com/psycho-2025) 👋
+### Hi there! I'm [Gaurav!](https://psycho-2025.github.io/psycho.github.io/)👋
 <a href="https://www.linkedin.com/">
     <img align="left" alt="gaurav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>

@@ -12,6 +12,9 @@
   <a href="https://psycho-2025.github.io/psycho.github.io/">
     <img align="left" alt="gaurav's blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />
   </a>
+  <a href="https://github.com/iampawan">
+   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
    <a href="mailto:ygauravyy@gmail.com">
     <img align="left" alt="gaurav's mail address" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>

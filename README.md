@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/psycho_2025/">
     <img align="left" alt="gaurav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
-   <a href="https://psycho-2025.github.io/psycho.github.io/">
+  <a href="https://psycho-2025.github.io/psycho.github.io/">
     <img align="left" alt="gaurav's blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />
   </a>
    <a href="mailto:ygauravyy@gmail.com">
@@ -18,6 +18,10 @@
    <a href="https://stackoverflow.com/users/14157085/">
     <img align="left" alt="gaurav's stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
   </a>
+  <a href="https://t.me/Mgaurav">
+   <img align="left" alt="gaurav's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  </a>
+  
   
   
 <br><br>

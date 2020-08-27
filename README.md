@@ -1,4 +1,6 @@
+
 ### Hi there! I'm [Gaurav!](https://psycho-2025.github.io/psycho.github.io/)👋
+<a href="https://psycho-2025.github.io/psycho.github.io/" target="_blank"><img src="https://en.bloggif.com/tmp/6fc5e4f3028ecdaa598b626e4b956733/text.gif?1598549114" align="right" alt="portfolio-image" width="400" height="auto"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psycho-2025&label=Views&color=blue&style=plastic" alt="psycho-2025" /> </p>
 <a href="https://www.linkedin.com/">
     <img align="left" alt="gaurav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

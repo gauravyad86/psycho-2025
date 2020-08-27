@@ -50,7 +50,7 @@
 
 <div align="center">
 
-### You need to live alone to be able to get succeed in your life!
+### You need to live alone to be able to get succeed in your life!🤟🏻🤟🏻
 
 </div>
 

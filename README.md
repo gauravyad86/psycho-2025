@@ -1,4 +1,4 @@
-<a href="https://psycho-2025.github.io/psycho.github.io/" target="_blank"><img src="https://en.bloggif.com/tmp/6fc5e4f3028ecdaa598b626e4b956733/text.gif?1598549114" align="centre" alt="portfolio-image" width="400" height="auto"></a>
+<a href="https://psycho-2025.github.io/psycho.github.io/" target="_blank"><img src="https://en.bloggif.com/tmp/6fc5e4f3028ecdaa598b626e4b956733/text.gif?1598550093" align="centre" alt="portfolio-image" width="400" height="auto"></a>
 ### Hi there! I'm [Gaurav!](https://psycho-2025.github.io/psycho.github.io/)👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psycho-2025&label=Views&color=blue&style=plastic" alt="psycho-2025" /> </p>

@@ -38,6 +38,12 @@
 - 😄 Real name is Gaurav not Psycho ...
 - 😄 Pronouns: He/His 🚫She/Her
 
+<div align="center">
+
+### &#729;pl&#633;o&#653; &#477;&#613;&#647; &#477;&#387;u&#592;&#613;&#596; o&#647; I&#8745; &#592; &#633;o&#607; &#387;u&#7433;&#670;oo&#741; 
+
+</div>
+
 [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@psycho_2025&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/psycho_2025/)
 
 

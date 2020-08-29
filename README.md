@@ -11,7 +11,7 @@
   <a href="https://www.instagram.com/psycho_2025/">
     <img align="left" alt="gaurav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
-  <a href="https://https://psycho-2025.netlify.app/">
+  <a href="https://psycho-2025.netlify.app/">
     <img align="left" alt="gaurav's blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />
   </a>
   <a href="https://github.com/iampawan">

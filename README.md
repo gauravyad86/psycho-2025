@@ -1,5 +1,5 @@
-<a href="https://psycho-2025.github.io/psycho.github.io/" target="_blank"><img src="https://en.bloggif.com/tmp/6fc5e4f3028ecdaa598b626e4b956733/text.gif?1598550093" align="centre" alt="portfolio-image" width="400" height="auto"></a>
-### Hi there! I'm [Gaurav!](https://psycho-2025.github.io/psycho.github.io/)👋
+<a href="https://https://psycho-2025.netlify.app/" target="_blank"><img src="https://en.bloggif.com/tmp/6fc5e4f3028ecdaa598b626e4b956733/text.gif?1598550093" align="centre" alt="portfolio-image" width="400" height="auto"></a>
+### Hi there! I'm [Gaurav!](https://psycho-2025.netlify.app/)👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psycho-2025&label=Views&color=blue&style=plastic" alt="psycho-2025" /> </p>
 <a href="https://www.linkedin.com/">
@@ -11,11 +11,11 @@
   <a href="https://www.instagram.com/psycho_2025/">
     <img align="left" alt="gaurav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
-  <a href="https://psycho-2025.github.io/psycho.github.io/">
+  <a href="https://https://psycho-2025.netlify.app/">
     <img align="left" alt="gaurav's blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />
   </a>
   <a href="https://github.com/iampawan">
-   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+   <img align="left" alt="gaurav's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
    <a href="mailto:ygauravyy@gmail.com">
     <img align="left" alt="gaurav's mail address" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />

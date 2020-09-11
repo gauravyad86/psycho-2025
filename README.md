@@ -1,4 +1,4 @@
-<a href="https://psycho-2025.netlify.app/" target="_blank"><img src="https://en.bloggif.com/tmp/0e07f0109161e86f58573d7cde5fbff6/text.gif?1599846805" align="centre" alt="portfolio-image" width="400" height="auto"></a>
+<a href="https://psycho-2025.netlify.app/" target="_blank"><img src="https://en.bloggif.com/tmp/0e07f0109161e86f58573d7cde5fbff6/text.gif?1599846852" align="centre" alt="portfolio-image" width="400" height="auto"></a>
 ### Hi there! I'm [Gaurav!](https://psycho-2025.netlify.app/)👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psycho-2025&label=Views&color=blue&style=plastic" alt="psycho-2025" /> </p>

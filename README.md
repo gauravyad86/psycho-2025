@@ -14,7 +14,7 @@
   <a href="https://psycho-2025.netlify.app/">
     <img align="left" alt="gaurav's blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />
   </a>
-  <a href="https://github.com/iampawan">
+  <a href="https://github.com/psycho-2025">
    <img align="left" alt="gaurav's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
    <a href="mailto:ygauravyy@gmail.com">

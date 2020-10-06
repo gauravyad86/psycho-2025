@@ -2,10 +2,10 @@
 ### Hi there! I'm [Gaurav!](https://psycho-2025.netlify.app/)👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psycho-2025&label=Views&color=blue&style=plastic" alt="psycho-2025" /> </p>
-<a href="https://www.linkedin.com/">
+<a href="https://https://www.linkedin.com/in/gaurav-yadav-2b92b5198/">
     <img align="left" alt="gaurav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://twitter.com/">
+  <a href="https://twitter.com/psycho-2025">
     <img align="left" alt="Gaurav Yadav| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
   <a href="https://www.instagram.com/psycho_2025/">
